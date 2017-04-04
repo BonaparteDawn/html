@@ -1,0 +1,19 @@
+#machine{
+    font-size: 20px;
+    font-family:"楷体";
+    color:  blue;
+    width: 600px;
+    text-align:left;
+    clear:both;
+    margin:0 auto;
+}
+.text{
+    height: 30px;
+    font-size: 20px;
+    font-family:"楷体";
+}
+.button{
+    font-size: 20px;
+    height: 30px;
+    font-family:"楷体";
+}
